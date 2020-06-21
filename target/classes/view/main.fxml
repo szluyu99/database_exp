@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="380.0" prefWidth="550.0" style="-fx-background-image: url('/pictures/s4.png'); -fx-background-size: 100% 100%" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.yusael.controller.MainController">
+   <children>
+      <Text layoutX="23.0" layoutY="127.0" strokeType="OUTSIDE" strokeWidth="0.0" text="欢迎使用票务管理系统" wrappingWidth="504.0">
+         <font>
+            <Font size="48.0" />
+         </font>
+      </Text>
+      <Button layoutX="175.0" layoutY="190.0" mnemonicParsing="false" onAction="#ticketsManage" prefHeight="40.0" prefWidth="200.0" style="-fx-background-color: pink" text="票务管理">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+      <Button layoutX="175.0" layoutY="250.0" mnemonicParsing="false" onAction="#ticketsQuery" prefHeight="40.0" prefWidth="200.0" style="-fx-background-color: pink" text="票务查询">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>
