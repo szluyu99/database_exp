@@ -1,7 +1,3 @@
-CSDN博客：[https://blog.csdn.net/weixin_43734095/article/details/106594631](https://blog.csdn.net/weixin_43734095/article/details/106594631)
-
-> Python 版本： [【数据库实验】《小型MIS的开发》PyQt5 开发 民航票务管理系统](https://blog.csdn.net/weixin_43734095/article/details/106773105)
----
 
 
 ~~这次的项目使用了 JavaFx + Spring + MyBatis，单纯的使用框架练练手，其实没有必要。~~
